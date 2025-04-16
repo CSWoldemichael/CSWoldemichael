@@ -1,0 +1,9 @@
+Penetration Test Report Summary
+The report follows a structured template, beginning with an Introduction, Methodology, Contact Information, and Scope. Areas highlighted in yellow should be completed accordingly. The client name, MegaCorpOne, must remain unchanged, but you can create a fictional name for your penetration testing firm. Some sections contain boilerplate content that should remain unchanged as they use standardized language.
+In the Contact Information section, realistic placeholder data can be used, but your real name should be included. The Scope must remain the same unless directed otherwise by your instructor.
+Executive Summary of Findings
+This section provides a high-level overview of the penetration test results for non-technical executives, such as the CEO, CISO, or CTO. Document the strengths and weaknesses observed in the assessment, maintaining a professional tone. Avoid overly negative phrasing and ensure the summary gives a clear understanding of the steps taken without detailing every action performed.
+Summary Vulnerability Overview and Vulnerability Findings
+Here, include in-depth information regarding discovered vulnerabilities, supplemented with screenshots. The Vulnerability Findings section is specifically designed for system administrators and vulnerability management personnel who will use the details to develop remediation plans.
+MITRE ATT&CK Navigator
+This section visually represents techniques, tactics, and procedures (TTPs) used during the assessment. Using the MITRE ATT&CK Navigator, generate a map marking each technique performed. Highlight successful techniques in yellow and unsuccessful ones in red for easy interpretation. The report template provides an example of this graphical representation.
